@@ -1,5 +1,4 @@
-# nirvana-new-version
-
+# hasura.io
 ## Getting started
 Step1:install node-v16.13.0-x64.msi
 Step2:npm install
